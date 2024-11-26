@@ -45,7 +45,7 @@ Each model represents hours of fine-tuning and optimization to ensure top-notch 
 Experience the magic of our plant disease detection system firsthand with our user-friendly web application.
 Upload leaf images effortlessly and receive instant disease predictions powered by our trained models.
 
-- https://plantdiseasedetection-dcsdauimdapwhj73ebbt9c.streamlit.app/
+- [Web Link - Hugging Face](https://huggingface.co/spaces/gyanbardhan123/PlantDiseaseDetection)
 
 ### References:
 Delve into the wealth of knowledge that informed our project's methodology and approach. 
